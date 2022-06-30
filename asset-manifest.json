@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/giphyApp/static/css/main.b7b1cb90.css",
+    "main.js": "/giphyApp/static/js/main.a6f870ca.js",
+    "static/js/787.688cc3e9.chunk.js": "/giphyApp/static/js/787.688cc3e9.chunk.js",
+    "index.html": "/giphyApp/index.html",
+    "main.b7b1cb90.css.map": "/giphyApp/static/css/main.b7b1cb90.css.map",
+    "main.a6f870ca.js.map": "/giphyApp/static/js/main.a6f870ca.js.map",
+    "787.688cc3e9.chunk.js.map": "/giphyApp/static/js/787.688cc3e9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b7b1cb90.css",
+    "static/js/main.a6f870ca.js"
+  ]
+}
