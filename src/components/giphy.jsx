@@ -92,7 +92,7 @@ const Giphy = () => {
     return (
         <div className="m-2">
             {renderError()}
-            <h1>Cassy's Giphy App</h1>
+            <h1>Cassy's Giphy App New</h1>
             <form className="searchForm">
                 <input onChange={handleSearchChange} value={search} type="text" placeholder="Search" className="searchBar"/>
                 <button onClick={handleSubmit} className="btn" type="submit">Search</button>
