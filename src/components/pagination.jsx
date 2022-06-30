@@ -16,7 +16,7 @@ const Paginate = (props) => {
                     }
                     return (
                     <li className={classes}>
-                        <a onClick={() => props.pageSelected(number)} href="!#" className="page-link">{number}</a>
+                        <a onClick={() => props.pageSelected(number)} className="page-link">{number}</a>
                     </li>
                     );
                 })}
